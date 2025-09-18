@@ -66,8 +66,6 @@ dan seterusnya.
 
 Clone repository ini:
 
-git clone https://github.com/patricxp/tugas_algorima.git
-
 Buka file .mlapp di MATLAB
 
 Jalankan aplikasi GUI.
