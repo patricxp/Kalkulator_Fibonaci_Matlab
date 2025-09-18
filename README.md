@@ -3,7 +3,9 @@ Fibonacci GUI dengan MATLAB
 
 Project ini membuat sebuah program GUI (Graphical User Interface) menggunakan MATLAB untuk menghitung dan menampilkan deret Fibonacci.
 
-Deret Fibonacci adalah urutan bilangan di mana setiap angkanya merupakan hasil penjumlahan dari dua angka sebelumnya. Rumus umumnya:
+Deret Fibonacci adalah urutan bilangan di mana setiap angkanya merupakan hasil penjumlahan dari dua angka sebelumnya. 
+
+Rumus umumnya:
 
 𝐹
 (
